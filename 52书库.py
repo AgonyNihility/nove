@@ -1,3 +1,4 @@
+# 此程序https://www.52shuku.vip/可用
 import requests
 from lxml import etree
 import unicodedata
